@@ -3,3 +3,5 @@ debug/
 ui_*.h
 .qmake.stash
 *.autosave
+Makefile
+*.pro.*
